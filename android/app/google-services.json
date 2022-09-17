@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "733076118139",
+    "project_id": "akf-mart",
+    "storage_bucket": "akf-mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733076118139:android:d6ed544a539d0a68e3a0de",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733076118139-436lij03pdvun7i57vspg03arbsk9l6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEqCIvxa-KGErtGFen7vVb8r1Cmy_3Czk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733076118139-436lij03pdvun7i57vspg03arbsk9l6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
